@@ -22,7 +22,7 @@
 
 **二，充值过程（使用\*\*** depay \***\*钱包申请万事达卡（\*\*** master \***\*））**
 
-1.下载 depay 钱包 app,下载地址： **https://depay.depay.one/web-app/register-h5?invitCode=921531&lang=zh-cn** ，建议使用手机打开页面，并使用安卓版本，为什么？ **因为方便啊，我用的安卓下载的。**
+1.下载 depay 钱包 app,下载地址： **https://depay.depay.one/web-app/register-h5?invitCode=828594&lang=zh-cn** ，建议使用手机打开页面，并使用安卓版本，为什么？ **因为方便啊，我用的安卓下载的。**
 
 <img src="./ims/3.png" alt="图片替换文本" width="700" height="500"/>
 
